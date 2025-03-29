@@ -32,17 +32,6 @@ Lead Data Engineer & AIOps
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/mayadispeler">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayadispeler&show_icons=true&hide=contribs,prs&count_private=true&cache_seconds=1800&theme=radical&include_all_commits=true&hide_border=true&disable_animations=true" />
-</a>
-
-<a href="http://www.github.com/mayadispeler">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayadispeler&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" />
-</a>
-
-<a href="https://github.com/mayadispeler" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayadispeler&layout=compact&hide_border=true&theme=radical&cache_seconds=1800&langs_count=8&exclude_repo=orange-swiggy-analytics" />
-</a>
 
 <!-- ✅ Verified commit count badge (manual) -->
 <p>
