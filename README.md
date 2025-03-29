@@ -52,11 +52,7 @@
 
 <!-- Bonus: Real-time Commit Badge -->
 
-![Commits This Week](https://img.shields.io/badge/dynamic/json?color=green&label=Commits%20This%20Week&query=total&url=https://github-contributions-api.jogruber.de/v4/mayadispeler&style=for-the-badge)
-
 ---
 
 > Last updated: <!-- optional, auto-update with script if needed -->
->
-> 
-> 
+
