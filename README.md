@@ -48,7 +48,7 @@ src="https://img.shields.io/github/followers/mayadispeler?logo=github&style=for-
 
 <!-- ✅ Verified commit count badge (manual) -->
 <p>
-  <img src="https://img.shields.io/badge/Verified%20Commits-226-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Verified%20Commits-350-brightgreen?style=for-the-badge" />
 </p>
 
 
