@@ -41,6 +41,7 @@
 <b>My GitHub Stats</b>
 
 ![Srihari's GitHub stats](https://github-readme-stats.vercel.app/api?username=MayaDispeler&show_icons=true&theme=transparent)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MayaDispeler)](https://git.io/streak-stats)
 
 <a href="http://www.github.com/mayadispeler">
   <img src="https://streak-stats.demolab.com?user=mayadispeler&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
