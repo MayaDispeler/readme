@@ -40,17 +40,13 @@
 
 <b>My GitHub Stats</b>
 
-![Srihari's GitHub stats](https://github-readme-stats.vercel.app/api?username=MayaDispeler&show_icons=true&theme=transparent)
+### 🔥 Verified Git Contributions
 
-<a href="http://www.github.com/mayadispeler">
-  <img src="https://streak-stats.demolab.com?user=mayadispeler&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-</a>
+✅ Total Commits (PowerShell Verified): **348**  
+✅ Confirmed across all active repositories:
 
-<a href="https://github.com/mayadispeler" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayadispeler&layout=compact&hide_border=true&theme=radical" />
-</a>
 
-<!-- Bonus: Real-time Commit Badge -->
+🛠 Verified using direct Git logs across all repos — no API errors, no widget guesswork.
 
 ---
 
