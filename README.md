@@ -40,9 +40,7 @@
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/mayadispeler">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayadispeler&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" />
-</a>
+[![Srihari's GitHub stats](https://github-readme-stats.vercel.app/api?username=MayaDispeler)](https://github.com/MayaDispeler/github-readme-stats?theme=dark)
 
 <a href="http://www.github.com/mayadispeler">
   <img src="https://streak-stats.demolab.com?user=mayadispeler&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
@@ -60,5 +58,5 @@
 
 > Last updated: <!-- optional, auto-update with script if needed -->
 >
-> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MayaDispeler)](https://github.com/MayaDispeler/github-readme-stats?theme=radical)
+> 
 > 
