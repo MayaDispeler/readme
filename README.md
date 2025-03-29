@@ -34,11 +34,23 @@ src="https://img.shields.io/github/followers/mayadispeler?logo=github&style=for-
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/mayadispeler"><img src="https://github-readme-stats.vercel.app/api?username=mayadispeler&show_icons=true&hide=contribs,prs&count_private=true&cache_seconds=1800&theme=radical&include_all_commits=true&hide_border=true&show_total_commits=true&disable_animations=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&total_commits=216" /></a>
+<a href="http://www.github.com/mayadispeler">
+  <img src="https://github-readme-stats.vercel.app/api?username=mayadispeler&show_icons=true&hide=contribs,prs&count_private=true&cache_seconds=1800&theme=radical&include_all_commits=true&hide_border=true&disable_animations=true" />
+</a>
 
-<a href="http://www.github.com/mayadispeler"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mayadispeler&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&include_all_commits=true&count_private=true&total_commits=216" /></a>
+<a href="http://www.github.com/mayadispeler">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayadispeler&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" />
+</a>
 
-<a href="https://github.com/mayadispeler" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayadispeler&layout=compact&hide_border=true&theme=radical&cache_seconds=1800&langs_count=8&exclude_repo=orange-swiggy-analytics" /></a>
+<a href="https://github.com/mayadispeler" align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayadispeler&layout=compact&hide_border=true&theme=radical&cache_seconds=1800&langs_count=8&exclude_repo=orange-swiggy-analytics" />
+</a>
+
+<!-- ✅ Verified commit count badge (manual) -->
+<p>
+  <img src="https://img.shields.io/badge/Verified%20Commits-226-brightgreen?style=for-the-badge" />
+</p>
+
 
 
 
