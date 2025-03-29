@@ -13,7 +13,7 @@ Lead Data Engineer & AIOps
 * 🧠  I'm learning AI Agents, Machine Learning, DL
 * 🤝  I'm open to collaborating on any projects
 * ⚡  I'm secretly buiding myself, don't tell to anyone
-![Commits Badge](https://img.shields.io/badge/dynamic/json?color=green&label=Commits%20This%20Week&query=total&url=https://github-contributions-api.jogruber.de/v4/mayadispeler&style=for-the-badge)
+
 
 <a href="https://www.github.com/mayadispeler" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mayadispeler?logo=github&style=for-the-badge&color=f97316&labelColor=000000" /></a>
