@@ -35,7 +35,7 @@ Lead Data Engineer & AIOps
 
 <!-- ✅ Verified commit count badge (manual) -->
 <p>
-  <img src="https://img.shields.io/badge/Verified%20Commits-350-brightblue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Verified%20Commits-350-blue?style=for-the-badge" />
 </p>
 
 
