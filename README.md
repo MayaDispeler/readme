@@ -60,5 +60,5 @@
 
 > Last updated: <!-- optional, auto-update with script if needed -->
 >
-> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MayaDispeler)](https://github.com/MayaDispeler/github-readme-stats)
+> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MayaDispeler)](https://github.com/MayaDispeler/github-readme-stats?theme=radical)
 > 
