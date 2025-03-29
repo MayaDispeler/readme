@@ -15,8 +15,6 @@ Lead Data Engineer & AIOps
 * ⚡  I'm secretly buiding myself, don't tell to anyone
 
 
-<a href="https://www.github.com/mayadispeler" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/mayadispeler?logo=github&style=for-the-badge&color=f97316&labelColor=000000" /></a>
 
 ### Skills
 
