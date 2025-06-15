@@ -7,7 +7,7 @@ Lead Data Engineer & AIOps
 ⚡ Core: Certified Lead Data Engineer specializing in scalable architectures 🔧 Tech: Python, Apache Spark, and cloud solutions (AWS/GCP/Azure) 🎯 Focus: Expanding into AI/ML with strategic revenue operations expertise 💡 Impact: Delivering holistic, data-driven solutions for business success
 
 * 🌍  I'm based in Chennai
-* 🖥️  See my portfolio at [Cooking.....](http://Cooking.....)
+* 🖥️  See my portfolio at [iamsrihari.com](http://uamsrihari.com)
 * ✉️  You can contact me at [ksvhari007@gmail.com](mailto:ksvhari007@gmail.com)
 * 🚀  I'm currently working on [Kissflow](http://kissflow.com)
 * 🧠  I'm learning AI Agents, Machine Learning, DL
